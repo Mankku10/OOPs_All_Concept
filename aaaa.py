@@ -7,4 +7,4 @@ class Sample:
 	
 a=Sample(5)
 b=Sample(10)
-//a+b
+a+b
